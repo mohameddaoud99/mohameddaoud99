@@ -4,8 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
 
 
-
-- 🔭 I’m currently working on **FlowERP**
+<!-- - 🔭 I’m currently working on **FlowERP** -->
 
 - 🌱 I’m currently learning **Advanced Cloud Architecture (Azure, AWS) & Devops approach**
 
