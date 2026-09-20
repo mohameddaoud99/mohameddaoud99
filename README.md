@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tijani Daoud</h1>
-<h3 align="center">Experienced Full Stack Software Engineer crafting scalable, intelligent web solutions with Java, Spring Boot and Angular</h3>
+<h3 align="center">Software Engineer | Java/Angular | ERP & Business Applications | Cloud • DevOps • AI Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
 
