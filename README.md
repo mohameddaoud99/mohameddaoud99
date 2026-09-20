@@ -4,15 +4,22 @@
 <img align="right" alt="coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
 
 
-<!-- - 🔭 I’m currently working on **FlowERP** -->
+I’m a Software Engineer with professional experience building and improving business applications and enterprise software, with a strong foundation in Java/JEE, Spring Boot, Angular and SQL.
 
-- 🌱 I’m currently learning **Advanced Cloud Architecture (Azure, AWS) & Devops approach**
+My professional experience is mainly focused on ERP and business applications, where I work with real-world business requirements, application development, maintenance, APIs, databases and process digitalization.
 
-- 👨‍💻 All of my projects are available at [(https://www.mohamedtijanidaoud.online)](https://www.mohamedtijanidaoud.online)
+Beyond my professional experience, I use personal projects to expand and demonstrate my skills in modern technologies such as Cloud, DevOps, AI, automation and SaaS.
 
-- 💬 Ask me about **Java, Spring Boot, Angular, REST APIs, Generative AI, LLM, SaaS development**
+* 🔭 I’m currently working on **SaaS, AI-powered applications & automation projects**
 
-- 📫 How to reach me **Email : mohamed.tijani.daoud@gmail.com | LinkedIn : [linkedin.com/in/mohamed-tijani-daoud](https://linkedin.com/in/mohamed-tijani-daoud)**
+* 🌱 I’m currently expanding my skills in **Cloud Architecture (Azure, AWS), DevOps, AI & automation**
+
+* 👨‍💻 All of my projects are available at [mohamedtijanidaoud.online](https://www.mohamedtijanidaoud.online)
+
+* 💬 Ask me about **Java, Spring Boot, Angular, REST APIs, ERP, Business Applications, Cloud, DevOps, AI & SaaS**
+
+* 📫 How to reach me **Email: [mohamed.tijani.daoud@gmail.com](mailto:mohamed.tijani.daoud@gmail.com) | LinkedIn: [linkedin.com/in/mohamed-tijani-daoud](https://linkedin.com/in/mohamed-tijani-daoud)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
