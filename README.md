@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Cloud Architecture (Azure, AWS) & Devops approach**
 
-- 👨‍💻 All of my projects are available at [https://mon-portfolio-72aj.vercel.app/#](https://mon-portfolio-72aj.vercel.app/#)
+- 👨‍💻 All of my projects are available at [(https://www.mohamedtijanidaoud.online)](https://www.mohamedtijanidaoud.online)
 
 - 💬 Ask me about **Java, Spring Boot, Angular, REST APIs, Generative AI, LLM, SaaS development**
 
