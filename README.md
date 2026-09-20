@@ -85,7 +85,7 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   </a>
   <a href="https://camunda.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/camunda/camunda-original.svg" alt="camunda" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/camunda" alt="camunda" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
